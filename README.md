@@ -1,1 +1,17 @@
-# Student-Performance-Analysis
+Student Performance Analysis | Power BI Project
+A data analytics project completed under IBM SkillsBuild – Project-Based Learning Program: “Decoding Data: Insights and Impact through Analytics with CSRBOX” (July–Aug 2025). This project analyzes a Kaggle dataset on student exam performance to uncover academic trends across subjects and genders. The data was cleaned, processed, and visualized using Power BI, resulting in an interactive dashboard that highlights key performance metrics and insights.
+
+Key Highlights:
+Data cleaning and preprocessing for accurate visualization
+KPI tracking for average scores and performance distribution
+Dynamic filters and interactive visuals for detailed insights
+Dashboard design focused on clarity and usability
+Tech Used: Power BI, Excel
+
+Screenshots of the project:
+Gender: All
+image
+Gender: Female
+image
+Gender: Male
+image
