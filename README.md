@@ -9,7 +9,7 @@ A data analytics project completed under IBM SkillsBuild – Project-Based Learn
 * Dynamic filters and interactive visuals for detailed insights
 * Dashboard design focused on clarity and usability
 
-*Tech Used:* Power BI, Excel
+**Tech Used:** Power BI, Excel
 
 ## Screenshots of the project:
 
