@@ -5,16 +5,13 @@ A data analytics project completed under IBM SkillsBuild – Project-Based Learn
 ## Key Highlights:
 
 * Data cleaning and preprocessing for accurate visualization
-
 * KPI tracking for average scores and performance distribution
-
 * Dynamic filters and interactive visuals for detailed insights
-
 * Dashboard design focused on clarity and usability
 
 *Tech Used:* Power BI, Excel
 
-##Screenshots of the project:
+## Screenshots of the project:
 
 ### Gender: All
 
